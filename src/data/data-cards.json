@@ -1,0 +1,47 @@
+{
+    "step1": {
+        "name": "1. Wywiad",
+        "description": "Na samym początku zapytam Cię o kilka ważnych sparw dotyczących Twojego zdrowia, aktywności fizycznej, trybu życia, odżywiania czy przebytych urazów.",
+        "theme": {
+            "border": "border-[#9BBE8F]",
+            "fill": "bg-[#CDDDC7]",
+            "highlight": "hover:bg-[#CDDDC7]/20"
+        }
+    },
+    "step2": {
+        "name": "2. Ustalenie celów",
+        "description": "Porozmawiamy o ‘dlaczego?’ czyli z czym przychodzisz i co chcesz osiągnąć poprzez treningi. Określimy priorytety i cele do których będziemy wspólnie dążyć.",
+        "theme": {
+            "border": "border-[#9ACAD9]",
+            "fill": "bg-[#CFE6F3]",
+            "highlight": "hover:bg-[#CFE6F3]/30"
+        }
+    },
+    "step3": {
+        "name": "3. Diagnostyka",
+        "description": "Nie bój się, to nic strasznego! Zbadamy Twoją sprawność fizyczną, ruchomość stawów, postawę, mocniejsze i słabsze punkty. To pomoże mi zrozumieć jak funkcjonuje Twoje ciało i dobrać odpowiednie ćwiczenia.",
+        "theme": {
+            "border": "border-[#C37C7C]",
+            "fill": "bg-[#E4B9B9]",
+            "highlight": "hover:bg-[#E4B9B9]/20"
+        }
+    },
+    "step4": {
+        "name": "4. Plan działania",
+        "description": "Przechodzimy do opracowania drogi wyznaczonego celu. Rozpiszemy treningi i ćwiczenia krok po kroku, aby mieć jasny plan działania.",
+        "theme": {
+            "border": "border-[#DEDA7F]",
+            "fill": "bg-[#DFE3B3]",
+            "highlight": "hover:bg-[#DFE3B3]/20"
+        }
+    },
+    "step5": {
+        "name": "5. Praktyka",
+        "description": "Poćwiczmy! Czas wcielić plan w życie.",
+        "theme": {
+            "border": "border-[#DFBDBD]",
+            "fill": "bg-[#EED7F0]",
+            "highlight": "hover:bg-[#EED7F0]/30"
+        }
+    }
+}

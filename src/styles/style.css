@@ -1,0 +1,27 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+    background-color: hsl(0, 0%, 6%);
+    min-width: 480px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    color: hsl(0, 0%, 60%);
+}
+
+.slick-dots {
+    padding-top: "3rem";
+    position: static;
+}
+
+#card1 .inner-icon {
+    border-color: #9bbe8f;
+    background-color: #cdddc7;
+}
+
+#card1 .inner-icon:hover {
+    background-color: #f2f2f2;
+}
