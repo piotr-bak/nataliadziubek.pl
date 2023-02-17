@@ -4,7 +4,7 @@ Repository of a project I implemented for Natalia Dziubek, coach from Gdynia. De
 
 ##### **Stack:** React, Tailwind CSS
 
-### **In order to run:**
+##### **In order to run:**
 
 ```javascript
   npm install
