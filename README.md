@@ -1,6 +1,7 @@
 ## NATALIA DZIUBEK COACH WEBSITE
 
-Repository of a project I implemented for Natalia Dziubek, coach from Gdynia. Built with React, using Tailwind CSS.
+Repository of a project I implemented for Natalia Dziubek, coach from Gdynia. Design by Natalia Możdżeń.
+Built with React, using Tailwind CSS.
 
 
 ### **In order to run:**
