@@ -1,6 +1,6 @@
 ## NATALIA DZIUBEK COACH WEBSITE
 
-Repository with source of a project I implemented for Natalia Dziubek, coach from Gdynia.
+Repository with source of a project I implemented for Natalia Dziubek, coach from Gdynia. Built with React, using Tailwind CSS.
 
 
 ### **In order to run:**
@@ -12,7 +12,3 @@ Repository with source of a project I implemented for Natalia Dziubek, coach fro
   ```
   
   runs at http://localhost:3000/
-
-
-##### **Stack**
-##### React, TailwindCSS
