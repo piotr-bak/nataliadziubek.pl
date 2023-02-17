@@ -12,4 +12,4 @@ Built with React, using Tailwind CSS.
   npm run start
   ```
   
-  runs at http://localhost:3000/
+  Runs at http://localhost:3000/
