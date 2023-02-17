@@ -2,8 +2,8 @@
 
 Repository of a project I implemented for Natalia Dziubek, coach from Gdynia. Design by Natalia Możdżeń.
 
-#### **Stack:**
-#### **React, Tailwind CSS**
+##### **Stack:**
+##### React, Tailwind CSS
 
 ### **In order to run:**
 
