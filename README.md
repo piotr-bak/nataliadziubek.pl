@@ -6,8 +6,8 @@ Design by Natalia Możdżeń.
 
 ### Why is it here?
 A remembrance token :) 
-As this was my first React implementation for a commercial Client (and the Client don't mind) - I decided to keep it here. 
-I learned quite a lot on this one, I could see what I like (React and its declarative nature) and what I like not-so-much (Tailwind. At time of development, it works like a breeze. But if you comeback to your code sometime later, the utility classes clutter is hard to see through).
+As this was my first React implementation for a commercial Client (and the Client don't mind) - I decided to keep it. 
+I learned quite a lot on this one, I could see what I like (React and its declarative nature) and what I like not-so-much (Tailwind. At time of development, it works like a breeze. But if you comeback to your code sometime later, the utility classes clutter is hard to see through). We all started somewhere - and that's how I did w/ React.
 
 ### **Stack:** React, Tailwind CSS
 
